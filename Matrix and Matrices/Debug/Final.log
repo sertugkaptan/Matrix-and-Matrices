@@ -1,0 +1,7 @@
+﻿  DenseMatrix.cpp
+  SparseMatrix.cpp
+C:\Users\wın 10\source\repos\Final\SparseMatrix.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wın 10\source\repos\Final\SparseMatrix.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\wın 10\source\repos\Final\SparseMatrix.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+  Final.vcxproj -> C:\Users\wın 10\source\repos\Final\Debug\Final.exe
